@@ -1,0 +1,1 @@
+# table_categories_domain_compatibilies
